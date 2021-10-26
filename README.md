@@ -1,0 +1,1 @@
+En este proyecto tendré que utilizar mis recientemente adquiridos conocimientos básicos sobre HTML para crear una pequeña página con una lista de recetas.
