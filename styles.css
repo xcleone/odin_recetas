@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+	background: #285E96;
+	background: -webkit-linear-gradient(bottom, #285E96, #58A674);
+	background: -moz-linear-gradient(bottom, #285E96, #58A674);
+	background: linear-gradient(to top, #285E96, #58A674);	
+}
+
+.imagen-recetas {
+
+	text-align: center;
+}
+
+.lista {
+
+	text-align: center;
+}
